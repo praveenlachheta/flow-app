@@ -1,8 +1,0 @@
-{
-  "name": "FLOW",
-  "short_name": "FLOW",
-  "start_url": "./index.html",
-  "display": "standalone",
-  "background_color": "#0a0a0b",
-  "theme_color": "#0a0a0b"
-}
